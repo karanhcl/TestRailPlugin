@@ -10,7 +10,7 @@ import java.util.Properties;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
-
+// adding comment
 public class Feature {
 	private final static String featureExtension = ".feature";
 	private final static String featureFilePath = "featureFilePath";
