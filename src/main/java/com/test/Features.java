@@ -14,7 +14,7 @@ public class Features {
 		return new Scenarios();
 	}
 
-	
+	//added third comments
 	JSONArray getFeatureArray() throws IOException, ParseException {
 
 		FileReader reader = new FileReader("D:\\TestFirst.json");
