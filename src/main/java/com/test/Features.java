@@ -6,7 +6,7 @@ import java.io.IOException;
 import org.json.simple.JSONArray;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
-
+//added second comments
 public class Features {
 	Scenarios scenario;
 
